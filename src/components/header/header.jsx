@@ -1,5 +1,4 @@
-import React from 'react';
-import { TextButton } from '../UI/Buttons/TextButton/TextButton';
+import { TextButton } from '../UI';
 import { useNavigate } from 'react-router';
 
 export function Header(){
